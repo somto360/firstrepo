@@ -1,0 +1,28 @@
+Strategic Objective	KPI Measurement	Weight	Target	
+Automated Test Coverage	Percentage of Automated Tests Covered for the app(APIs, Web) Test Coverage per Feature in Jenkins
+CAESAR - http://is.jenkins.interswitchng.com/job/caesar-api-automated-postman-testsuite-uat/
+GWP SELF SERVICE PORTAL - http://is.jenkins.interswitchng.com/job/self-service-report-portal-postman-test/13/
+
+Percentage of Successful Deployments	Deployments without rollbacks
+CR excel sheet
+
+Timely execution of project	Percentage of work completed on time (Work or Sprints completed on time/Total number of sprints or estimated work) JIRA - GWP Evidence
+
+Bugs in Production	Percentage of apps deployed with bugs from deployment with respect to total apps deployed - Bugs logged in JIRA
+O bugs from deployments as seen in CR
+
+Process Improvement	Suggest any useful process (ones that will be adopted) that will help improve our work output in terms of efficiency.
+Open Enterprise Spinnaker and JFrog projects, Discussion on Technology projects payment process, Business Technology, Infrastructure engineering and Technology Project reporting via Kanban boards
+	
+GWP Customer Resolution Stream	Reduce the number of report request tickets by deploying the self-service portal
+GWP Evidence
+
+Grace Akinsola has seven years experience working with Software Engineering teams throughout the software development life cycle and delivery process. In the past, She has functioned as a Software QA Anayst, Automation Engineer and Program Manager. She currently serves as an IT Service Delivery Analyst at Interswitch where she manages the Infrastructure Transformation program.
+
+QA Role
+Test planning
+Manual Testing
+Automated Testing
+Raising CRs
+
+C:\Users\grace.akinsola\Documents\Cucumber Projects\arbiter-reloaded-rest-cucumber-testsuite\uat>cucumber --guess -f html -o testresult.html --publish-quiet
